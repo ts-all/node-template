@@ -15,4 +15,4 @@
 * run `npm start` and a ***Hello World*** should welcomes you in your command line
 
 ## TODO
-* Debug TypeScript code in VS Code with `F5` and `breakpoints` and `step debug` working
+* ~~Debug TypeScript code in VS Code with `F5` and `breakpoints` and `step debug` working~~
